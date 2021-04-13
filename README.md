@@ -13,8 +13,8 @@
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
-> git clone https://github.com/MeliodasJAJA/MeliodasBot06
-> cd MeliodasBot06
+> git clone https://github.com/InverXe/TakitakiBot
+> cd TakitakiBot
 > bash install.sh 
 ```
 #### Run👌👍
